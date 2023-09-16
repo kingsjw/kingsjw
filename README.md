@@ -5,7 +5,7 @@
 - :school: 서울디지텍고등학교 (2019. 02)
 - :school: 광운대학교 (2022. 03 ~ 현재)
 - :office: [브링프라이스](https://www.bringprice.com/) 프론트엔드 개발자 (2018. 10 ~ 2021.03)
-- :office: [클래스101](https://class101.net/) software engineer (2021. 03 ~ 2023. 07)
+- :office: [CLASS101](https://class101.net/) software engineer (2021. 03 ~ 2023. 07)
 
 ### 🔭 기술스택
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
